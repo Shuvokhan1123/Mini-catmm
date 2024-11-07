@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "𝐓𝐎𝐌-𝐁𝐎𝐓",
+  "BOTNAME": "𝐒𝐓 𝐒𝐇𝐔𝐕𝐎-𝐁𝐎𝐓",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "61564959257681",
+    "61559798099987",
     ""
   ],
   "OWNER": ["100000959749712"], 
