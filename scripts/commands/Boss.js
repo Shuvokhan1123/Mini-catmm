@@ -15,7 +15,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	let react = event.body.toLowerCase();
 	if(react.includes("boss") || react.includes("bossk") || react.includes("karbot")) {
 		var msg = {
-				body: "আসসালামু আলাইকুম🥰🥰আমি 🥰SK SHAKIL(TOM)এর ভদ্র বট!!FB LINK :https://www.facebook.com/GOLAPI.NUNUR.ODHIKARI.TOM.YOUR.NEXT.VATAR🤍"
+				body: "আসসালামু আলাইকুম🥰আমি 𝐒𝐓 𝐒𝐇𝐔𝐕𝐎 এর ভদ্র বট!!🤍"
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("", event.messageID, (err) => {}, true)
